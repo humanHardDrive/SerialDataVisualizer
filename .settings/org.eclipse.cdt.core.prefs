@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/BOOST_PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/BOOST_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/BOOST_PATH/value=C\:\\boost
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/SFML_PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/SFML_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/SFML_PATH/value=C\:\\SFML-2.5.1\\include
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/WX_PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/WX_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/WX_PATH/value=C\:\\wxWidgets-3.1.1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1359815034/appendContributed=true
