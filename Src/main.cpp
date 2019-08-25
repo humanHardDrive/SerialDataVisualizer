@@ -1,0 +1,37 @@
+#include <vector>
+#include <string>
+#include <boost/property_tree/xml_parser.hpp>
+
+enum TYPE_ENUM
+{
+	TYPE_RAW_BOOL = 0,
+	TYPE_RAW_INT8,
+	TYPE_RAW_UINT8,
+	TYPE_RAW_INT16,
+	TYPE_RAW_UINT16,
+	TYPE_RAW_INT32,
+	TYPE_RAW_UINT32,
+	TYPE_RAW_INT64,
+	TYPE_RAW_UINT64,
+	TYPE_RAW_FLOAT,
+	TYPE_RAW_DOUBLE,
+	TYPE_STRING_STRING,
+	TYPE_STRING_BOOL,
+	TYPE_STRING_INT,
+	TYPE_STRING_UINT,
+	TYPE_STRING_FLOAT
+};
+
+enum PARSER_CLASS
+{
+	PARSER_STX = 0,
+	PARSER_LENGTH,
+	PARSER_DATA,
+	PARSER_DELIMITER,
+	PARSER_ETX
+};
+
+int main(int argc, char** argv)
+{
+	return 0;
+}

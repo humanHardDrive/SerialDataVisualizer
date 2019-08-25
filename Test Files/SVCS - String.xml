@@ -1,0 +1,4 @@
+<!--SVCS - Single Value Comma Separated w/ Strings-->
+<Formatters>
+	<Format class='data' type="string_float" name="Speed"></Format>
+	<Format class="delimiter" value=","></Format></Formatters>

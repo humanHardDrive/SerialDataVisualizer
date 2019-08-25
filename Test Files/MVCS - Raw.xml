@@ -1,0 +1,8 @@
+<!--MVCS - Multiple Value Comma Separated w/ Bytes-->
+<Formatters>
+	<Format class="data" type="float" name="Accel_X"></Format>
+	<Format class="delimiter" value=","></Format>
+	<Format class="data" type="float" name="Accel_Y"></Format>
+	<Format class="delimiter" value=","></Format>
+	<Format class="data" type="float" name="Accel_Z"></Format>
+	<Format class="delimiter" value="\n"></Format></Formatters>
